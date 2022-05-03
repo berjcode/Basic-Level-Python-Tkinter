@@ -1,0 +1,11 @@
+Hesap Makinesi  uygulaması  basit düzeydir.
+Eklemeler yaparak kendinizi geliştirebilirsiniz.
+
+yorum satırı olarak alanları belirittim.
+
+
+web site =
+www.teknolojiyolcusu.com
+
+
+instagram = @teknolojiyolcusu_
