@@ -1,7 +1,10 @@
 # Temel-Seviye-Python-Tkinter
-Temel Seviye Python Tkinter Örnekleri 
+
+Basic Python Tkinter Examples
 
 
-Temel Düzeydir.  
 
+Basic Level. 
+
+My web site :
 www.teknolojiyolcusu.com
